@@ -5,5 +5,5 @@ resources:
   - hpa.yaml
   - deployment.yaml
   - service.yaml
-  - ../gw-secret.json
+  - ../secret/gw-secret.json
 
